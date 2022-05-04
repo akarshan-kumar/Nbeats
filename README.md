@@ -1,1 +1,1 @@
-# Nbeats
+# Nbeats.ipynb file is used to train on the 75% of the data. A generic pipeline is made to prepare the data and hypertune the parameters of model for every dataet(i.e .csv file). Dataset_Benchmarking_for_Nbeats.ipynb is used to predict values using the remaining 25% of the data and is also used to generate the benchmarking plots. Benchmark plots.pdf contains all the timeseries plots with yTrue and pred values.
